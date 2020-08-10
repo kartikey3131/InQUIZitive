@@ -1,4 +1,4 @@
-#InQUIZitive
+# InQUIZitive
 Hello Welcome toInQUIZitive!!
 Here is a quick go through of webiste.
 If you are a new User you need to Signup and then Login using credentials.
